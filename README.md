@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Divyat-Agrawal
-- 👀 I’m interested in coding 
+- 👀 I’m interested in Coding
 - 🌱 I’m currently Working as a frontened devloper(HTML,CSS AND JS)
+- 📫 Mail me at divyatagrawal01@gmail.com
 
 
 
