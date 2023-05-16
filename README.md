@@ -1,5 +1,5 @@
 <h1 align= "center">
-   <img src="https://readme-typing-svg.demolab.com/?font=Nabla&size=50&pause=1000&color=F71818&center=true&vCenter=true&width=550&height=100&lines=Hello!+I%27M+A+K+H+I+L">
+   <img src="https://readme-typing-svg.demolab.com/?font=Nabla&size=50&pause=1000&color=F71818&center=true&vCenter=true&width=550&height=100&lines=Hello!+I%27M+D+I+V+Y+A+T">
 </h1>
 
 <div id="header" align="center">
