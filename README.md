@@ -2,8 +2,19 @@
    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=50&pause=10000&color=7BF7ED&center=true&vCenter=true&width=550&height=100&lines=I'm+Divyat!">
 </h1>
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzA1ZjcyYzNmNzMzMDU1YTA2MzZjZDMzZDRjNTI3OTUxZDE1NWFlOCZjdD1z/HwBlFQZFcAoUcPHZdX/giphy.gif" width="200"/>
+</div> -->
+
+<div id="header" align="center">
+  <table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img src="https://user-images.githubusercontent.com/91731654/236767179-4de5e701-03de-4453-aafa-008ef6c40fb6.png" width="300"/>
+  </tr>
+</table>
 </div>
 
 
