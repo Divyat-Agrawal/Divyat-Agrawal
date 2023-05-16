@@ -75,10 +75,10 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhilJain5&&theme=dark&show_icons=true)](https://git.io/streak-stats" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyat-Agrawal&&theme=dark&show_icons=true)](https://git.io/streak-stats" /> 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
 </p>
 
-[![Akhil's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AkhilJain5&theme=merko)](https://github.com/AkhilJain5/github-readme-activity-graph)
+[![Divyat github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Divyat-Agrawal&theme=merko)](https://github.com/AkhilJain5/github-readme-activity-graph)
