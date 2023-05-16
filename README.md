@@ -68,9 +68,9 @@
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=AkhilJain5&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Divyat-Agrawal&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
     <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilJain5&layout=compact&theme=radical&custom_title=Languages"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyat-Agrawal&layout=compact&theme=radical&custom_title=Languages"/></td>
   </tr>
 </table>
 
