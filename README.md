@@ -11,8 +11,7 @@
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
     <td valign="top"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img src="https://user-images.githubusercontent.com/91731654/236767179-4de5e701-03de-4453-aafa-008ef6c40fb6.png" width="300"/>
+  
   </tr>
 </table>
 </div>
