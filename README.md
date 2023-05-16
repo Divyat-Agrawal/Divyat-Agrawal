@@ -59,8 +59,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
   <img src="https://e7.pngegg.com/pngimages/893/87/png-clipart-web-development-html-cascading-style-sheets-css3-bootstrap-minimalist-resume-blue-angle.png"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" **alt="Git" width="80" height="80"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" title="Canva" alt="Canva " width="80" height="80"/>&nbsp;
-  <img src="https://w7.pngwing.com/pngs/431/965/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo.png" title="figma" alt="figma " width="80" height="80"/>&nbsp;
+   <img src="https://cdn3d.iconscout.com/3d/free/thumb/javascript-logo-6563586-5453022.png" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
 </div>
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 
