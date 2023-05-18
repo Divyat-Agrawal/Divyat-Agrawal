@@ -42,9 +42,7 @@
   <a href="https://www.linkedin.com/feed/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<!--   <a href="https://twitter.com/AkhilJain510">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
+
   <a href="https://instagram.com/divyat_agrawal?igshid=NTc4MTIwNjQ2YQ==">
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
