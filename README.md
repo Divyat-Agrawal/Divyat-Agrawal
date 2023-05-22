@@ -31,6 +31,7 @@
 **C,** 
 **C++,** 📅
 **Python,** 
+**Java Script,** 
 **Operating Git & GitHub,** 
 **Data Structures and Algorithms,**
 **Operating Systems,**
