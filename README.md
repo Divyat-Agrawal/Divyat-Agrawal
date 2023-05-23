@@ -36,7 +36,7 @@
 **Data Structures and Algorithms,**
 **Operating Systems,**
 **Database Management System,**
-**Computer Network.**
+
 
 ### Find me here! :
 <div id="badges" align = "center">
