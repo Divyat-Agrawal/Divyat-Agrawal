@@ -61,7 +61,7 @@
    <img src="https://cdn3d.iconscout.com/3d/free/thumb/javascript-logo-6563586-5453022.png" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
 </div>
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fng-bootstrap%2Fng-bootstrap%2Fissues%2F2350&psig=AOvVaw3jTp_lodFUK3kcoEI4kCnv&ust=1685292439141000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLi1ptv5lf8CFQAAAAAdAAAAABAI" width="100%" height="8px"/>
+
 
 ### :fire: My Stats :
 
