@@ -34,7 +34,7 @@
 **Java Script,** 
 **Operating Git & GitHub,** 
 **Data Structures and Algorithms,**
-**Operating Systems,**
+<!-- **Operating Systems,** -->
 **Database Management System,**
 
 
