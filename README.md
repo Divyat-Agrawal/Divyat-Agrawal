@@ -32,6 +32,7 @@
 **C++,** 📅
 **Python,** 
 **Java Script,** 
+**Django,**
 **Operating Git & GitHub,** 
 **Data Structures and Algorithms,**
 <!-- **Operating Systems,** -->
